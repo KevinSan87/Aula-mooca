@@ -1,0 +1,31 @@
+body {
+    background-color: #808080;
+    font-family: Arial, sans-serif;
+  }
+  
+  p {
+    color: rgb(4, 0, 255);          /* Define a cor do texto */
+    font-size: 18px;     /* Define o tamanho da fonte */
+    margin: 10px;        /* Define a margem ao redor do parágrafo */
+    padding: 5px;        /* Define o espaçamento interno */
+  }
+
+  h1,h2, h3 {
+    font-family: Arial, sans-serif;
+    
+  }
+
+  img  {
+
+    width: 100px;
+    height: 100px;
+
+      }
+
+  p1 {
+    color: rgb(0, 0, 0);  
+
+  }
+
+
+  
